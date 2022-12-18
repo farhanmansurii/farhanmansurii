@@ -1,7 +1,7 @@
 ![Header](./header.png)
-Hello Stranger 👋, I'm Farhan Mansuri 
-I'm a frontend developer interested in the MERN Stack. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended users using modern web technologies such as Javascript, Typescript, React , NextJs, TailwindCSS, Styled-Components and more...
 
+<p>
+I'm a frontend developer interested in the MERN Stack. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended users using modern web technologies such as Javascript, Typescript, React , NextJs, TailwindCSS, Styled-Components and more...</p>
 👯 I’m looking to collaborate/build on projects.
 
 📫 you can e-mail me at mansurifarhanfm@gmail.com.
