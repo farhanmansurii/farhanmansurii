@@ -38,8 +38,8 @@ I'm currently looking for new opportunities, so my inbox is always open. Have a 
 </br></br>
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/farhan/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/farhan/github-readme-stats&theme=dark)
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanmansurii&show_icons=true&theme=radical)
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanmansurii&show_icons=true)
 </div>
 
