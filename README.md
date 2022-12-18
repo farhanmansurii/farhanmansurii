@@ -31,7 +31,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=farhanmansurii&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=farhanmansurii&redirect=true)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=farhanmansurii
-&&style=flat-square" align="center" />
-</div>  
+
+![](https://komarev.com/ghpvc/?username=farhanmansurii)
