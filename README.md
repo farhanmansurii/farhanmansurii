@@ -1,16 +1,23 @@
 ![Header](./header.png)
 ======================================================================================================================================
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm farhan mansuri, a front-end developer 👨‍💻
-======================================================================================================================================
+Hi there 👋 I'm Farhan, a full-time full-stack developer with expertise in the MERN stack and related technologies. I love building scalable and robust web applications that solve real-world problems. 👨‍💻  
+  
 
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
 
-* 🌍  I'm based in mumbai, MH
-* ❓ Ask me about anything related to MERN stack and related technologies  
-* ✉️  You can contact me at [mansurifarhanfm@gmail.com](mailto:mansurifarhanfm@gmail.com)
-* 🧠  I'm learning new technologies to become a full-stack developer
-* 🤝  I'm open to collaborating on anything.
-* ⚡  I watch animes a lot like a whole lot. 🚶‍♂️🚶‍♂️
+- 🌱 I’m currently learning TRPC and Java  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+- ✉️  You can contact me at [mansurifarhanfm@gmail.com](mailto:mansurifarhanfm@gmail.com)  
+  
+
+- ⚡  I watch animes a lot like a whole lot. 🚶‍♂️🚶‍♂️  
+  
 
 ### Skills
 --------------------
