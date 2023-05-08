@@ -35,9 +35,6 @@ A full-time full-stack developer with expertise in the MERN stack and related te
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=farhanmansurii&icon=0&color=0)](https://visitcount.itsvg.in)
 
